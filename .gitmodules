@@ -1,0 +1,6 @@
+[submodule "libs/animation"]
+	path = libs/animation
+	url = https://github.com/patrixr/love-animation.git
+[submodule "libs/bump"]
+	path = libs/bump
+	url = git@github.com:kikito/bump.lua.git
